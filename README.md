@@ -1,7 +1,7 @@
 
 # @precooked/react-nav
 
-![Precooked Logo](https://precookedcode.com/assets/logos/logo-horizontal-dark.png)
+![Precooked Logo](https://precookedcode.com/assets/logos/logo-horizontal-dark.svg)
 
 `@precooked/react-nav` is a flexible navigation component for React projects that supports custom styles and highlights the active navigation item based on the current route.
 
